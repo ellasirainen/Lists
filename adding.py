@@ -1,0 +1,5 @@
+lst = list(range(10))
+lst.insert(0,55)
+print(lst)
+lst.extend(range(5))
+print(lst)
